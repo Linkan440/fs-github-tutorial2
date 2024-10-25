@@ -38,10 +38,11 @@ _this is italic text_
 
 ![linkan](images/Linkan1.png)
 
-
-
 | name   | age |
-|--------|----------|
+| ------ | --- |
+| Linkan | 24  |
+| Linkan | 24  |
+| Linkan | 24  |
 | Linkan | 24  |
 | Linkan | 24  |
 | Linkan | 24  |
